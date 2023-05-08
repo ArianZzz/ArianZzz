@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArianZzz
-- 👀 I’m interested in Python and c#
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in flutter 
+- 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me ! 
 print("zarriniarian@gmail.com")
